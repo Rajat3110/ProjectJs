@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:100%;
+ }
+ .first {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+        width: 400px;
+        padding: 10px;
+ }
+ #text{
+     padding: 10px;
+ }
+ #btn1{
+     padding: 10px;
+     background-image: image("/icon/plus.png");
+ }
+ #auto{
+     display: flex;
+     flex-direction: column;
+ 
+ }
+ label{
+     padding: 10px;
+ }
